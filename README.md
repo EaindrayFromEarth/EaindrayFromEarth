@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eaindray from Earth</h1>
-<h3 align="center">Been Learning programming since 2019 with a strong interest in software development, further developing my programming skills. I am a dedicated and fast learner, ready to contribute to a dynamic team in a software company.</h3>
+<h3 align="center">Been Learning programming since 8th Grade with a strong interest in software development, further developing my programming skills. I am a dedicated and fast learner, ready to contribute to a dynamic team in a software company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaindrayfromearth&label=Profile%20views&color=0e75b6&style=flat" alt="eaindrayfromearth" /> </p>
 
