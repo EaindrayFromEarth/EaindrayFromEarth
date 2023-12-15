@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaindrayfromearth" alt="eaindrayfromearth" /></a> </p>
 
-- 🌱 I’m currently learning **Aws , C#.NET and Spring Boot**
+- 🌱 I’m currently learning **Aws , C# .NET and Django**
 
 - 💬 Ask me about **anything in my tech Stack**
 
