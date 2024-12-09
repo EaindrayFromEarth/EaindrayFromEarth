@@ -40,6 +40,7 @@
 
   
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eaindrayfromearth&hide=html&layout=compact&langs_count=10&hide_border=true&bg_color=00000000)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dwix.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
