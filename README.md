@@ -41,4 +41,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dwix.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 66.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 41 Private Repository 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
+C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/EaindrayFromEarth/EaindrayFromEarth/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/12/2024 18:47:57 UTC
 <!--END_SECTION:waka-->
