@@ -42,5 +42,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-dwix.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
 
+
+[![Top Langs](https://github-readme-stats-dwix.vercel.app/api/top-langs/?username=eaindrayfromearth&layout=donut)](https://github.com/EaindrayFromEarth/github-readme-stats)
