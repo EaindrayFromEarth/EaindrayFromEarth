@@ -40,3 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dwix.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
