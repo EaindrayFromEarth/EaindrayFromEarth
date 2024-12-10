@@ -17,6 +17,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: 'true'    # Show total coding time
           SHOW_LANGUAGE: 'true'           # Show languages used
+          SHOW_LINES_OF_CODE: 'true'      #Show lines of code
           SHOW_TIME: 'false'              # Hide individual coding time (for each language, etc.)
           SHOW_MASKED_TIME: 'false'       # Hide masked time (if any)
-          SHOW_TITLE: 'false'             # Hide title or header section
+          SHOW_TITLE: 'false'              # Hide title or header section
+          SHOW_PROFILE_VIEWS: 'false'     # Hide Profile View
+          SHOW_LOC_CHART: 'false'
+          
+          
+          
