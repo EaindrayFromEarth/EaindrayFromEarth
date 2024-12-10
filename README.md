@@ -41,11 +41,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dwix.vercel.app/api?username=eaindrayfromearth&show_icons=true&locale=en" alt="eaindrayfromearth" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-915.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 66.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 180 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,6 +57,45 @@
  > 
 > 🔑 41 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                109 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+🌆 Daytime                131 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
+🌃 Evening                137 commits         █████████░░░░░░░░░░░░░░░░   35.40 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Wednesday                78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Thursday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Saturday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -65,10 +108,6 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/EaindrayFromEarth/EaindrayFromEarth/master/assets/bar_graph.png)
-
-
- Last Updated on 09/12/2024 18:47:57 UTC
+ Last Updated on 10/12/2024 03:48:12 UTC
 <!--END_SECTION:waka-->
